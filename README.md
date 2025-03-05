@@ -7,7 +7,7 @@
 
 ---
 
-This repository contains the MATLAB code used for the experiments in the paper "**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**."
+This repository contains the MATLAB code used for the experiments in the paper "**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**", accepted for publication at [ICRA25](https://2025.ieee-icra.org/).
 
 ## Overview
 
