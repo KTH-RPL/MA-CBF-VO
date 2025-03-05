@@ -1,8 +1,10 @@
 # Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions
 
-# SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving
-
 [![arXiv: 2409.10117v2](https://img.shields.io/badge/arXiv-2409.10117v2-B31B1B.svg)](https://arxiv.org/abs/2409.10117v2)
+[![Video on YouTube](https://img.shields.io/badge/YouTube-Video-red.svg)](https://www.youtube.com/watch?v=Ox8v2s17gLw&ab_channel=AlejandroS%C3%A1nchezRoncero)
+
+---
+
 
 
 This repository contains the MATLAB code used for the experiments of the paper "Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions". [paper](https://arxiv.org/abs/2409.10117v2). the multi-agent collision avoidance by combining Velocity Obstacles (VO) with Control Barrier Functions (CBF). The approach is based on the paper:
