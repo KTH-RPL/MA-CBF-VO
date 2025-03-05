@@ -5,6 +5,8 @@
 
 *Alejandro Sánchez Roncero, Rafael I. Cabral Muchacho, and Petter Ögren*  
 
+![relaxed_vs_strict_fig1](https://github.com/user-attachments/assets/5f4c3729-0595-43f1-8dda-86bcedd6fc30)
+
 ---
 
 This repository contains the MATLAB code used for the experiments in the paper "**Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**."
