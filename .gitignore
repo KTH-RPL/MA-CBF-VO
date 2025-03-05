@@ -1,0 +1,4 @@
+# Exclude demos and out directories
+demos/
+out/
+slprj/
