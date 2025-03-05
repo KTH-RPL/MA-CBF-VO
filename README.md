@@ -38,3 +38,16 @@ If you encounter any issues with the code or have suggestions for improvement, p
 ## Warnings
 
 By default, all demo videos are recorded at a high frame rate, which can result in large file sizes.
+
+## Citation
+If you use this code in your research, please cite our paper:
+@misc{roncero2024multiagentobstacleavoidanceusing,
+      title={Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions}, 
+      author={Alejandro Sánchez Roncero and Rafael I. Cabral Muchacho and Petter Ögren},
+      year={2024},
+      eprint={2409.10117},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.10117}, 
+}
+
