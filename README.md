@@ -23,7 +23,7 @@ There are two major folders—one for second-order integrator dynamics and anoth
 - **`run_scenario.m`**: Helper script to run simulations, with parameters specified in `sim_config.m`.
 - **`scenarios/`**: Folder containing various scenarios. Each scenario is constructed as a Simulink file.
 
-If you encounter any issues with the code or have suggestions for improvement, please create a pull request or email [alesr@kth.se](mailto:alesr@kth.se).
+If you encounter any issues with the code or have suggestions for improvement, please create a pull request or email [alesr@kth.se](mailto:alesr@kth.se). Note that the same method can be applied to more complex dynamical systems.
 
 ## Requirements
 
