@@ -1,4 +1,4 @@
-# Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions
+# Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions (ICRA 2025)
 
 [![arXiv: 2409.10117v2](https://img.shields.io/badge/arXiv-2409.10117v2-B31B1B.svg)](https://arxiv.org/abs/2409.10117v2)
 [![Video on YouTube](https://img.shields.io/badge/YouTube-Video-red.svg)](https://www.youtube.com/watch?v=Ox8v2s17gLw&ab_channel=AlejandroS%C3%A1nchezRoncero)
