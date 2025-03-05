@@ -4,6 +4,7 @@
 [![Video on YouTube](https://img.shields.io/badge/YouTube-Video-red.svg)](https://www.youtube.com/watch?v=Ox8v2s17gLw&ab_channel=AlejandroS%C3%A1nchezRoncero)
 
 *Alejandro Sánchez Roncero, Rafael I. Cabral Muchacho, and Petter Ögren*  
+
 ![relaxed_vs_strict_white](https://github.com/user-attachments/assets/3430f579-d09b-405e-acd4-d905e3a39de0)
 
 ---
