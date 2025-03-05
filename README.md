@@ -1,6 +1,11 @@
-# VO-CBF Multi-Agent Collision Avoidance
+# Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions
 
-This repository contains MATLAB code for implementing multi-agent collision avoidance by combining Velocity Obstacles (VO) with Control Barrier Functions (CBF). The approach is based on the paper:
+# SeFlow: A Self-Supervised Scene Flow Method in Autonomous Driving
+
+[![arXiv: 2409.10117v2](https://img.shields.io/badge/arXiv-2409.10117v2-B31B1B.svg)](https://arxiv.org/abs/2409.10117v2)
+
+
+This repository contains the MATLAB code used for the experiments of the paper "Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions". [paper](https://arxiv.org/abs/2409.10117v2). the multi-agent collision avoidance by combining Velocity Obstacles (VO) with Control Barrier Functions (CBF). The approach is based on the paper:
 
 **Multi-Agent Obstacle Avoidance using Velocity Obstacles and Control Barrier Functions**  
 *Alejandro Sánchez Roncero, Rafael I. Cabral Muchacho, and Petter Ögren*  
